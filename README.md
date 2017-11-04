@@ -1,2 +1,3 @@
 # hello-worlds
-Sarting GitHub
+Starting GitHub
+edit spelling error
